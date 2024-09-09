@@ -6,4 +6,6 @@
 
 **Use of Reactjs and CSS Stylings**
 
+**Responsive Design**
+
 Deployed Link:- https://task-tracker-hstimw288-mridulhus-projects.vercel.app/
